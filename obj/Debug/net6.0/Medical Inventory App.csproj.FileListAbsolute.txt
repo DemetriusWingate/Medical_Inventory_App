@@ -1,0 +1,14 @@
+C:\Users\dwing\source\repos\Medical Inventory App\bin\Debug\net6.0\Medical Inventory App.exe
+C:\Users\dwing\source\repos\Medical Inventory App\bin\Debug\net6.0\Medical Inventory App.deps.json
+C:\Users\dwing\source\repos\Medical Inventory App\bin\Debug\net6.0\Medical Inventory App.runtimeconfig.json
+C:\Users\dwing\source\repos\Medical Inventory App\bin\Debug\net6.0\Medical Inventory App.dll
+C:\Users\dwing\source\repos\Medical Inventory App\bin\Debug\net6.0\Medical Inventory App.pdb
+C:\Users\dwing\source\repos\Medical Inventory App\obj\Debug\net6.0\Medical Inventory App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwing\source\repos\Medical Inventory App\obj\Debug\net6.0\Medical Inventory App.AssemblyInfoInputs.cache
+C:\Users\dwing\source\repos\Medical Inventory App\obj\Debug\net6.0\Medical Inventory App.AssemblyInfo.cs
+C:\Users\dwing\source\repos\Medical Inventory App\obj\Debug\net6.0\Medical Inventory App.csproj.CoreCompileInputs.cache
+C:\Users\dwing\source\repos\Medical Inventory App\obj\Debug\net6.0\Medical Inventory App.dll
+C:\Users\dwing\source\repos\Medical Inventory App\obj\Debug\net6.0\refint\Medical Inventory App.dll
+C:\Users\dwing\source\repos\Medical Inventory App\obj\Debug\net6.0\Medical Inventory App.pdb
+C:\Users\dwing\source\repos\Medical Inventory App\obj\Debug\net6.0\Medical Inventory App.genruntimeconfig.cache
+C:\Users\dwing\source\repos\Medical Inventory App\obj\Debug\net6.0\ref\Medical Inventory App.dll
