@@ -80,10 +80,12 @@ class Program
 
         ims.AddItem("Anesthesia Machine", 12, 2750.25);
         ims.AddItem("Oxygen Concentrator", 5, 1400.25);
+        ims.AddItem("Suction Machine", 2, 275.15);
+        ims.AddItem("Vital signs monitor", 25, 300.50);
 
         ims.DisplayInventory();
 
-        // Add more interactions as needed
+        // Console Options
         Console.WriteLine("\nChoose an option:");
         Console.WriteLine("1. Add Item");
         Console.WriteLine("2. Update Item");
