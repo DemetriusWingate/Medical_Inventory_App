@@ -63,7 +63,7 @@ namespace InventoryList.Logic
             AddItemToInventoryList(GetInventoryItemById(id));
         }
 
-        public bool RemoveGroceryItemFromListById(int id)
+        public bool RemoveInventoryItemFromListById(int id)
         {
             var item = GetInventoryItemById(id);
             var wasRemoved = _inventoryList.InventoryItems.Remove(item);
