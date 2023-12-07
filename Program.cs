@@ -27,7 +27,7 @@ class InventoryManagementSystem
         };
 
         inventory.Add(newItem);
-        Console.WriteLine("Item added to inventory.");
+        //Console.WriteLine("Item added to inventory.");
     }
 
     public void UpdateItem(string name, int newQuantity, double newPrice)
@@ -42,7 +42,7 @@ class InventoryManagementSystem
         }
         else
         {
-            Console.WriteLine($"Item '{name}' not found in inventory. Update failed.");
+            Console.WriteLine($"Item '{name}' not found in inventory. ");
         }
     }
 
@@ -114,6 +114,7 @@ class Program
 
                         ims.AddItem(newItemName, newItemQuantity, newItemPrice);
                         ims.DisplayInventory();
+                        Console.WriteLine("Item added to inventory.");
                         break;
 
                     case 2:
@@ -128,6 +129,7 @@ class Program
 
                         ims.UpdateItem(updateItemName, updateItemQuantity, updateItemPrice);
                         ims.DisplayInventory();
+                        Console.WriteLine("Item updated.");
                         break;
 
                     case 3:
@@ -146,6 +148,7 @@ class Program
 
                     default:
                         Console.WriteLine("Invalid choice. Please enter a valid option.");
+                        Console.WriteLine("Item deleted out of inventory.");
                         break;
                 }
             }
